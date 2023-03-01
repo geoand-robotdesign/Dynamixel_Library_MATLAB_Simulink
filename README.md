@@ -6,6 +6,8 @@ The *Dynamixel library for MATLAB and Simulink* is based on the dynamic library 
 
 This library expands on the capabilities of the aforementioned references, by providing high-level functions for easier communication handling and control of multiple Dynamixel motors supporting both ROBOTIS protocols ([1.0](https://emanual.robotis.com/docs/en/dxl/protocol1/) and [2.0](https://emanual.robotis.com/docs/en/dxl/protocol2/)). The Simulink implementation makes it easier to execute near real-time Dynamixel motor control using its integrated [Simulation Pacing](https://se.mathworks.com/help/simulink/ug/simulation-pacing.html) functionality, while enabling the design and testing of higher-level robot controllers using Simulink's and MATLAB's toolboxes. Finally, the library comes with a number of examples written for MATLAB and Simulink providing help on how to use its functionalities.
 
+You can also access the latest release of this library in [MATLAB's file exchange] (https://www.mathworks.com/matlabcentral/fileexchange/125545-dynamixel-library-for-matlab-and-simulink).
+
 Author: Georgios Andrikopoulos (geoand@kth.se). Written in [MATLAB 2022b](https://www.mathworks.com/products/new_products/latest_features.html).
 
 ## Current Support
